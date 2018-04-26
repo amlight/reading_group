@@ -3,9 +3,9 @@
 
 ## Articles
 
-Meeting Date (UTC) |  Article Title | Chair
+Date |  Article Title | Chair
 --- | --- | ---
-May 05, 2018 at 8PM | Yang, X., Han, B., Sun, Z., and Huang, J. (2017). SDN-based DDoS Attack Detection with Cross-Plane Collaboration and Lightweight Flow Monitoring. GLOBECOM. | Italo Valcy
+May/05/18 8PM UTC | SDN-based DDoS Attack Detection with Cross-Plane Collaboration and Lightweight Flow Monitoring. | Italo Valcy
 
 ## About
 
