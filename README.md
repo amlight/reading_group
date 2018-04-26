@@ -18,3 +18,4 @@ May/17/18 8PM UTC | Millions of Little Minions: Using Packets for Low Latency Ne
   - Meetings will not be announced by e-mails. Use the schedule above to organize your agenda
   - Paper discussions will be guided by a chair. However, all participants need to read the paper
   - Participants are encouraged to go deeper into any topic and suggest papers for future meetings
+  - Due to Copyrights, please download the paper yourself using the Google Scholar: http://scholar.google.com
