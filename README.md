@@ -23,3 +23,4 @@ Jul/12/18 8PM UTC | TBD | TBD
   - Paper discussions will be guided by a chair. However, all participants need to read the paper
   - Participants are encouraged to go deeper into any topic and suggest papers for future meetings
   - Due to Copyrights, please download the paper yourself using the Google Scholar: http://scholar.google.com
+  - Participants are encouraged to volunteer themselves to be future meeting's chair! 
