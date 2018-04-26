@@ -1,7 +1,21 @@
 
-## AmLight Academic reading group agenda
+# AmLight Academic Reading Group Agenda
 
-Visit the [Wiki](https://github.com/amlight/reading_group/wiki/Agenda) page to see the agenda.
+## Next Article
+
+#### Title
+
+Yang, X., Han, B., Sun, Z., and Huang, J. (2017). SDN-based DDoS Attack Detection with Cross-Plane Collaboration and Lightweight Flow Monitoring. GLOBECOM.
+
+#### Meeting Date
+
+May 05, 2018 at 8PM UTC.
+
+#### Chair
+
+Italo Valcy
+
+## Previous Articles
 
 ## About
 
