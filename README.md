@@ -1,21 +1,11 @@
 
 # AmLight Academic Reading Group Agenda
 
-## Next Article
+## Articles
 
-#### Title
-
-Yang, X., Han, B., Sun, Z., and Huang, J. (2017). SDN-based DDoS Attack Detection with Cross-Plane Collaboration and Lightweight Flow Monitoring. GLOBECOM.
-
-#### Meeting Date
-
-May 05, 2018 at 8PM UTC.
-
-#### Chair
-
-Italo Valcy
-
-## Previous Articles
+Meeting Date (UTC) |  Article Title | Chair
+--- | --- | ---
+May 05, 2018 at 8PM | Yang, X., Han, B., Sun, Z., and Huang, J. (2017). SDN-based DDoS Attack Detection with Cross-Plane Collaboration and Lightweight Flow Monitoring. GLOBECOM. | Italo Valcy
 
 ## About
 
