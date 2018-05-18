@@ -5,7 +5,7 @@
 
 Date |  Paper Title | Chair
 --- | --- | ---
-May/18/18 1PM UTC | SDN-based DDoS Attack Detection with Cross-Plane Collaboration and Lightweight Flow Monitoring | Italo Valcy
+May/25/18 1PM UTC | SDN-based DDoS Attack Detection with Cross-Plane Collaboration and Lightweight Flow Monitoring | Italo Valcy
 Jun/01/18 1PM UTC | TBD | TBD
 Jun/15/18 1PM UTC | TBD | TBD
 Jun/29/18 1PM UTC | Millions of Little Minions: Using Packets for Low Latency Network Programming and Visibility | Jeronimo Bezerra
@@ -25,3 +25,5 @@ Aug/10/18 1PM UTC | The Case for Data Plane Timestamping in SDN | Jeronimo Bezer
   - Participants are encouraged to go deeper into any topic and suggest papers for future meetings
   - Due to Copyrights, please download the paper yourself using the Google Scholar: http://scholar.google.com
   - Participants are encouraged to volunteer themselves to be future meeting's chair! 
+
+![Image](./.amlight_logo.png)
