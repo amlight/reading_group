@@ -6,10 +6,10 @@
 Date |  Paper Title | Chair
 --- | --- | ---
 May/25/18 1PM UTC | SDN-based DDoS Attack Detection with Cross-Plane Collaboration and Lightweight Flow Monitoring | Italo Valcy
-Jun/01/18 1PM UTC | TBD | TBD
-Jun/15/18 1PM UTC | TBD | TBD
+Jun/01/18 1PM UTC | - | -
+Jun/15/18 1PM UTC | - | -
 Jun/29/18 1PM UTC | Millions of Little Minions: Using Packets for Low Latency Network Programming and Visibility | Jeronimo Bezerra
-Jul/13/18 1PM UTC | TBD | TBD
+Jul/13/18 1PM UTC | MEICAN: Simplifying DCN Life-Cycle Management from End-User and Operator Perspectives in Inter-Domain Environments | Julio Ibarra
 Jul/27/18 1PM UTC | LLMP: Exploiting LLDP for Latency Measurement in Software-Defined Data Center Networks | TBD
 Aug/10/18 1PM UTC | The Case for Data Plane Timestamping in SDN | Jeronimo Bezerra
 
